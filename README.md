@@ -80,3 +80,12 @@ All components share a common GND and power supply
 7. The final crop recommendation is generated.  
 
 8. LED acts as an indicator for system status.
+
+<h1>FEATURES</h1>
+ 1.Real-time data monitoring
+
+ 2.IoT + Machine Learning integration
+
+ 3.Accurate crop recommendation
+
+ 4.Low-cost and efficient system

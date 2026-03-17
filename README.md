@@ -91,3 +91,15 @@ All components share a common GND and power supply
  3.Accurate crop recommendation
 
  4.Low-cost and efficient system
+
+ <h1>APPLICATIONS</h1>
+
+
+1.Smart agriculture
+
+2.Precision farming
+
+3.Decision support system for farmers
+
+<h1>AUTHOR</h1>
+## SALONI YADAV

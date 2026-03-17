@@ -82,6 +82,8 @@ All components share a common GND and power supply
 8. LED acts as an indicator for system status.
 
 <h1>FEATURES</h1>
+
+
  1.Real-time data monitoring
 
  2.IoT + Machine Learning integration

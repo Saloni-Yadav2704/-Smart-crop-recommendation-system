@@ -15,9 +15,6 @@ This system uses sensors and a microcontroller to collect real-time data and dis
 4.Help farmers choose suitable crops based on conditions
 
 
-
-
-
 <h1>COMPONENTS USED</h1>
 
 

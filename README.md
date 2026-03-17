@@ -15,6 +15,23 @@ This system uses sensors and a microcontroller to collect real-time data and dis
 4.Help farmers choose suitable crops based on conditions
 
 
+
+
+
+<h1>COMPONENTS USED</h1>
+
+
+| Component | Description |
+|----------|------------|
+| Arduino Uno | Microcontroller board |
+| MQ-2 Gas Sensor | Detects gas levels |
+| Soil Moisture Sensor | Measures soil moisture |
+| 16x2 LCD Display | Displays output |
+| Breadboard | Circuit building platform |
+| Jumper Wires | Connections |
+| LED | Status indicator |
+
+
 <h1>MACHINE LEARNING MODEL</h1>
 
 **Algorithm Used:** Random Forest  
@@ -33,18 +50,7 @@ It works by combining multiple decision trees to improve accuracy and reduce ove
 Algorithm Used: Random Forest
 
 
-<h1>COMPONENTS USED</h1>
 
-
-| Component | Description |
-|----------|------------|
-| Arduino Uno | Microcontroller board |
-| MQ-2 Gas Sensor | Detects gas levels |
-| Soil Moisture Sensor | Measures soil moisture |
-| 16x2 LCD Display | Displays output |
-| Breadboard | Circuit building platform |
-| Jumper Wires | Connections |
-| LED | Status indicator |
 <h1> CIRCUIT CONNECTIONS</h1>
 
 

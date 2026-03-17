@@ -64,8 +64,8 @@ All components share a common GND and power supply
 
 <h1>WORKING PRINCIPLE</h1>
 1. The sensors collect real-time environmental data:
-   - Soil Moisture Sensor measures the water content in soil  
-   - MQ-2 Gas Sensor detects the presence of gases  
+- Soil Moisture Sensor measures the water content in soil  
+- MQ-2 Gas Sensor detects the presence of gases  
 
 2. The collected data is sent to the Arduino Uno microcontroller  
 

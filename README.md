@@ -63,7 +63,7 @@ Algorithm Used: Random Forest
 All components share a common GND and power supply
 
 <h1>WORKING PRINCIPLE</h1>
-1. The sensors collect real-time environmental data:
+ 1. The sensors collect real-time environmental data:
 - Soil Moisture Sensor measures the water content in soil  
 - MQ-2 Gas Sensor detects the presence of gases  
 

@@ -15,28 +15,27 @@ This system uses sensors and a microcontroller to collect real-time data and dis
 4.Help farmers choose suitable crops based on conditions
 
 <h1>COMPONENTS USED</h1>
-1.Arduino Uno
 
-2.DHT11
 
-3.MQ-2 Gas Sensor
+| Component | Description |
+|----------|------------|
+| Arduino Uno | Microcontroller board |
+| MQ-2 Gas Sensor | Detects gas levels |
+| Soil Moisture Sensor | Measures soil moisture |
+| 16x2 LCD Display | Displays output |
+| Breadboard | Circuit building platform |
+| Jumper Wires | Connections |
+| LED | Status indicator |
+<h1> CIRCUIT CONNECTIONS</h1>
 
-4.Soil Moisture Sensor
 
-5.16x2 LCD
-
-6.Breadboard
-
-7.Jumper Wires
-
-8.LED
-
-<h3>components            arduino pin        </h3>   
-DHT11                     Data	D2
-MQ-2                      Analog Output	A0
-Soil Moisture Sensor	    A1
-LCD RS	                  D12
-LCD Enable	              D11
-LCD Data Pins           	D3, D4, D5, D6
+| Component              | Arduino Pin |
+|-----------------------|------------|
+| MQ-2 Analog Output    | A0         |
+| Soil Moisture Sensor  | A1         |
+| LCD RS                | D12        |
+| LCD Enable            | D11        |
+| LCD Data Pins         | D3, D4, D5, D6 |
+| LED                   | D7         |
 
 All components share a common GND and power supply

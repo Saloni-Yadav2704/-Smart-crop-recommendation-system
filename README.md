@@ -14,6 +14,25 @@ This system uses sensors and a microcontroller to collect real-time data and dis
 
 4.Help farmers choose suitable crops based on conditions
 
+
+<h1>MACHINE LEARNING MODEL</h1>
+
+**Algorithm Used:** Random Forest  
+
+### 📥 Input Features
+- Soil Moisture  
+- Gas Levels  
+- (Optional: Temperature, Humidity)
+
+### 📤 Output
+- Recommended Crop
+
+### ⚙️ Model Description
+The Random Forest algorithm is used to analyze sensor data and predict the most suitable crop.  
+It works by combining multiple decision trees to improve accuracy and reduce overfitting.
+Algorithm Used: Random Forest
+
+
 <h1>COMPONENTS USED</h1>
 
 

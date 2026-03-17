@@ -61,3 +61,20 @@ Algorithm Used: Random Forest
 | LED                   | D7         |
 
 All components share a common GND and power supply
+
+<h1>WORKING PRINCIPLE</h1>
+1. The sensors collect real-time environmental data:
+   - Soil Moisture Sensor measures the water content in soil  
+   - MQ-2 Gas Sensor detects the presence of gases  
+
+2. The collected data is sent to the Arduino Uno microcontroller  
+
+3. The Arduino processes the sensor data and displays it on the 16x2 LCD  
+
+4. The sensor readings are then used as input for the Machine Learning model  
+
+5. A Random Forest algorithm analyzes the input features and predicts the most suitable crop  
+
+6. The final crop recommendation can be displayed or stored for further use  
+
+7. LED is used as an indicator for system status

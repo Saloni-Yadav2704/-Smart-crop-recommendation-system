@@ -63,7 +63,7 @@ Algorithm Used: Random Forest
 All components share a common GND and power supply
 
 <h1>WORKING PRINCIPLE</h1>
-1. The Soil Moisture Sensor measures the water content in the soil.  
+ 1. The Soil Moisture Sensor measures the water content in the soil.  
 
 2. The MQ-2 Gas Sensor detects the presence of gases in the environment.  
 

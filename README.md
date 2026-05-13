@@ -14,8 +14,6 @@ This system utilizes multiple sensors alongwith an Arduino Uno microcontroller t
 
 4.Recommend suitable crops based on environmental conditions
 
-5. Support smart and precision agriculture
-
 
 <h1>COMPONENTS USED</h1>
 

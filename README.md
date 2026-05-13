@@ -1,18 +1,20 @@
 <h1>INTRODUCTION</h1>
 
 The Smart Crop Recommendation System is an IoT-based project that helps in analyzing environmental conditions such as soil moisture, gas levels, temperature, and humidity to assist in recommending suitable crops.
-This system uses sensors and a microcontroller to collect real-time data and display it on an LCD screen.
+This system utilizes multiple sensors alongwith an Arduino Uno microcontroller to collect real-time data and display it on an  16X2 LCD display.
 
 <h1>OBJECTIVES</h1>
 
 
-1.Monitor soil moisture levels
+1.Monitor soil moisture levels in real time
 
 2.Detect harmful gases in the environment
 
 3.Display real-time data on LCD
 
-4.Help farmers choose suitable crops based on conditions
+4.Recommend suitable crops based on environmental conditions
+
+5. Support smart and precision agriculture
 
 
 <h1>COMPONENTS USED</h1>
@@ -26,7 +28,7 @@ This system uses sensors and a microcontroller to collect real-time data and dis
 | 16x2 LCD Display | Displays output |
 | Breadboard | Circuit building platform |
 | Jumper Wires | Connections |
-| LED | Status indicator |
+| LED | System status indicator |
 
 
 <h1>MACHINE LEARNING MODEL</h1>
@@ -36,7 +38,8 @@ This system uses sensors and a microcontroller to collect real-time data and dis
 ###  Input Features
 - Soil Moisture  
 - Gas Levels  
-- Temperature & Humidity
+- Temperature
+-  Humidity
 
 ###  Output
 - Recommended Crop
@@ -102,4 +105,5 @@ All components share a common GND and power supply
 3.Decision support system for farmers
 
 <h1>AUTHOR</h1>
-** SALONI YADAV**
+** - SALONI YADAV
+   - RICHA **
